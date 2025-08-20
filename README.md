@@ -4,6 +4,10 @@ Este proyecto es una prueba técnica para la vacante de **Fullstack Developer Jr
 Consiste en una aplicación móvil desarrollada con **React Native + Expo**, que integra un **LLM (Large Language Model) en modo offline** utilizando **react-native-executorch**.  
 
 ---
+## 🎥 Demostración en video
+
+Puedes ver el funcionamiento del proyecto en el siguiente enlace:  
+[Ver video en Google Drive](https://drive.google.com/file/d/1KsqBPRAgTRDChftc2BqcthnmXjt1Bhf6/view?usp=sharing)
 
 ## 📋 Requisitos previos
 
@@ -43,8 +47,4 @@ Esto levantará el servidor de Expo, mostrando un QR que puedes escanear con la 
 2. Ejecutar en Android
   En otra consola, ejecuta:
   ```bash
-  npm run android
-## 🎥 Demostración en video
-
-Puedes ver el funcionamiento del proyecto en el siguiente enlace:  
-[Ver video en Google Drive](https://drive.google.com/file/d/1KsqBPRAgTRDChftc2BqcthnmXjt1Bhf6/view?usp=sharing)
+   npm run android
